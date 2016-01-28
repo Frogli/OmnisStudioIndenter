@@ -1,0 +1,14 @@
+[
+{
+	"id": "tools",
+	"children":
+	[
+	{
+		"id" : "OmnisStudioIndenter",
+		"caption" : "Omnis Studio Indenter",
+		"command" : "omnisstudioindenter",
+		"value" : "Omnis Studio Indenter"
+	}
+]
+}
+]
